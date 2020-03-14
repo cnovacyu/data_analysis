@@ -1,0 +1,804 @@
+{
+    "tracks": [
+        {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS",
+                        "id": "56oDRnqbIiwx4mymNEv7dS",
+                        "name": "Lizzo",
+                        "type": "artist",
+                        "uri": "spotify:artist:56oDRnqbIiwx4mymNEv7dS"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+                        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+                        "name": "Ariana Grande",
+                        "type": "artist",
+                        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1k1HuvFs562Z3CCiSYhtc1"
+                },
+                "href": "https://api.spotify.com/v1/albums/1k1HuvFs562Z3CCiSYhtc1",
+                "id": "1k1HuvFs562Z3CCiSYhtc1",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/fe136e0cd1aac8d6daa77e1d6e60a441afb6daef",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/60a40509d1e61984ae5286e49c89c5fbe257eb45",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/203db7e42e7e0fb6e0db07e211d0cfa53f20df4a",
+                        "width": 64
+                    }
+                ],
+                "name": "Good as Hell (feat. Ariana Grande) [Remix]",
+                "release_date": "2019-10-25",
+                "release_date_precision": "day",
+                "total_tracks": 2,
+                "type": "album",
+                "uri": "spotify:album:1k1HuvFs562Z3CCiSYhtc1"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS",
+                    "id": "56oDRnqbIiwx4mymNEv7dS",
+                    "name": "Lizzo",
+                    "type": "artist",
+                    "uri": "spotify:artist:56oDRnqbIiwx4mymNEv7dS"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+                    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+                    "name": "Ariana Grande",
+                    "type": "artist",
+                    "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 159011,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USAT21906086"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/07Oz5StQ7GRoygNLaXs2pd"
+            },
+            "href": "https://api.spotify.com/v1/tracks/07Oz5StQ7GRoygNLaXs2pd",
+            "id": "07Oz5StQ7GRoygNLaXs2pd",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Good as Hell (feat. Ariana Grande) - Remix",
+            "popularity": 87,
+            "preview_url": "https://p.scdn.co/mp3-preview/95a1c1a7a990490f1bd7d8d0645d3d4a38e08e22?cid=774b29d4f13844c495f206cafdad9c86",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:07Oz5StQ7GRoygNLaXs2pd"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS",
+                        "id": "56oDRnqbIiwx4mymNEv7dS",
+                        "name": "Lizzo",
+                        "type": "artist",
+                        "uri": "spotify:artist:56oDRnqbIiwx4mymNEv7dS"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O"
+                },
+                "href": "https://api.spotify.com/v1/albums/2KJjOBX280F3hZZE1xO33O",
+                "id": "2KJjOBX280F3hZZE1xO33O",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ace301aefc77523ace9c29082fea4767d6c323c9",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/b5e7cd3472bc6f3ad8c9d7e8d41971d2179b7631",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/cd2a4c867d25557fb1149d89d0e008773852f48f",
+                        "width": 64
+                    }
+                ],
+                "name": "Cuz I Love You (Super Deluxe)",
+                "release_date": "2019-04-19",
+                "release_date_precision": "day",
+                "total_tracks": 16,
+                "type": "album",
+                "uri": "spotify:album:2KJjOBX280F3hZZE1xO33O"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS",
+                    "id": "56oDRnqbIiwx4mymNEv7dS",
+                    "name": "Lizzo",
+                    "type": "artist",
+                    "uri": "spotify:artist:56oDRnqbIiwx4mymNEv7dS"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 173325,
+            "explicit": true,
+            "external_ids": {
+                "isrc": "USAT21703896"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3HWzoMvoF3TQfYg4UPszDq",
+            "id": "3HWzoMvoF3TQfYg4UPszDq",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Truth Hurts",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/c8bdc870ffc6044c84f0d52306a35551fb3d0263?cid=774b29d4f13844c495f206cafdad9c86",
+            "track_number": 13,
+            "type": "track",
+            "uri": "spotify:track:3HWzoMvoF3TQfYg4UPszDq"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS",
+                        "id": "56oDRnqbIiwx4mymNEv7dS",
+                        "name": "Lizzo",
+                        "type": "artist",
+                        "uri": "spotify:artist:56oDRnqbIiwx4mymNEv7dS"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O"
+                },
+                "href": "https://api.spotify.com/v1/albums/2KJjOBX280F3hZZE1xO33O",
+                "id": "2KJjOBX280F3hZZE1xO33O",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ace301aefc77523ace9c29082fea4767d6c323c9",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/b5e7cd3472bc6f3ad8c9d7e8d41971d2179b7631",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/cd2a4c867d25557fb1149d89d0e008773852f48f",
+                        "width": 64
+                    }
+                ],
+                "name": "Cuz I Love You (Super Deluxe)",
+                "release_date": "2019-04-19",
+                "release_date_precision": "day",
+                "total_tracks": 16,
+                "type": "album",
+                "uri": "spotify:album:2KJjOBX280F3hZZE1xO33O"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS",
+                    "id": "56oDRnqbIiwx4mymNEv7dS",
+                    "name": "Lizzo",
+                    "type": "artist",
+                    "uri": "spotify:artist:56oDRnqbIiwx4mymNEv7dS"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 159735,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USAT21600354"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/1fUXdFpj8AbpkdwiaJwQWk"
+            },
+            "href": "https://api.spotify.com/v1/tracks/1fUXdFpj8AbpkdwiaJwQWk",
+            "id": "1fUXdFpj8AbpkdwiaJwQWk",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Good as Hell",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/26fb41451edf62e4dac1049d1e0092e266a7b13f?cid=774b29d4f13844c495f206cafdad9c86",
+            "track_number": 15,
+            "type": "track",
+            "uri": "spotify:track:1fUXdFpj8AbpkdwiaJwQWk"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS",
+                        "id": "56oDRnqbIiwx4mymNEv7dS",
+                        "name": "Lizzo",
+                        "type": "artist",
+                        "uri": "spotify:artist:56oDRnqbIiwx4mymNEv7dS"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
+                },
+                "href": "https://api.spotify.com/v1/albums/6dFFcYQ8VhifgdKgYY5LYL",
+                "id": "6dFFcYQ8VhifgdKgYY5LYL",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27306af802e2ea241b6ba1ce0f2",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0206af802e2ea241b6ba1ce0f2",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485106af802e2ea241b6ba1ce0f2",
+                        "width": 64
+                    }
+                ],
+                "name": "Cuz I Love You",
+                "release_date": "2019-04-19",
+                "release_date_precision": "day",
+                "total_tracks": 11,
+                "type": "album",
+                "uri": "spotify:album:6dFFcYQ8VhifgdKgYY5LYL"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS",
+                    "id": "56oDRnqbIiwx4mymNEv7dS",
+                    "name": "Lizzo",
+                    "type": "artist",
+                    "uri": "spotify:artist:56oDRnqbIiwx4mymNEv7dS"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 195144,
+            "explicit": true,
+            "external_ids": {
+                "isrc": "USAT21813044"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0k664IuFwVP557Gnx7RhIl",
+            "id": "0k664IuFwVP557Gnx7RhIl",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Juice",
+            "popularity": 81,
+            "preview_url": "https://p.scdn.co/mp3-preview/7ca1598cec36c49118562b02491b9a030e233d88?cid=774b29d4f13844c495f206cafdad9c86",
+            "track_number": 3,
+            "type": "track",
+            "uri": "spotify:track:0k664IuFwVP557Gnx7RhIl"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS",
+                        "id": "56oDRnqbIiwx4mymNEv7dS",
+                        "name": "Lizzo",
+                        "type": "artist",
+                        "uri": "spotify:artist:56oDRnqbIiwx4mymNEv7dS"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
+                },
+                "href": "https://api.spotify.com/v1/albums/6dFFcYQ8VhifgdKgYY5LYL",
+                "id": "6dFFcYQ8VhifgdKgYY5LYL",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27306af802e2ea241b6ba1ce0f2",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0206af802e2ea241b6ba1ce0f2",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485106af802e2ea241b6ba1ce0f2",
+                        "width": 64
+                    }
+                ],
+                "name": "Cuz I Love You",
+                "release_date": "2019-04-19",
+                "release_date_precision": "day",
+                "total_tracks": 11,
+                "type": "album",
+                "uri": "spotify:album:6dFFcYQ8VhifgdKgYY5LYL"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS",
+                    "id": "56oDRnqbIiwx4mymNEv7dS",
+                    "name": "Lizzo",
+                    "type": "artist",
+                    "uri": "spotify:artist:56oDRnqbIiwx4mymNEv7dS"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2wIVse2owClT7go1WT98tk",
+                    "id": "2wIVse2owClT7go1WT98tk",
+                    "name": "Missy Elliott",
+                    "type": "artist",
+                    "uri": "spotify:artist:2wIVse2owClT7go1WT98tk"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 175342,
+            "explicit": true,
+            "external_ids": {
+                "isrc": "USAT21901464"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6nBQFAIVFmAx2oZ8p6lUg6"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6nBQFAIVFmAx2oZ8p6lUg6",
+            "id": "6nBQFAIVFmAx2oZ8p6lUg6",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Tempo (feat. Missy Elliott)",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/e75e1519123e780dff439d0eea7de584e0fd0cb1?cid=774b29d4f13844c495f206cafdad9c86",
+            "track_number": 7,
+            "type": "track",
+            "uri": "spotify:track:6nBQFAIVFmAx2oZ8p6lUg6"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS",
+                        "id": "56oDRnqbIiwx4mymNEv7dS",
+                        "name": "Lizzo",
+                        "type": "artist",
+                        "uri": "spotify:artist:56oDRnqbIiwx4mymNEv7dS"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
+                },
+                "href": "https://api.spotify.com/v1/albums/6dFFcYQ8VhifgdKgYY5LYL",
+                "id": "6dFFcYQ8VhifgdKgYY5LYL",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27306af802e2ea241b6ba1ce0f2",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0206af802e2ea241b6ba1ce0f2",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485106af802e2ea241b6ba1ce0f2",
+                        "width": 64
+                    }
+                ],
+                "name": "Cuz I Love You",
+                "release_date": "2019-04-19",
+                "release_date_precision": "day",
+                "total_tracks": 11,
+                "type": "album",
+                "uri": "spotify:album:6dFFcYQ8VhifgdKgYY5LYL"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS",
+                    "id": "56oDRnqbIiwx4mymNEv7dS",
+                    "name": "Lizzo",
+                    "type": "artist",
+                    "uri": "spotify:artist:56oDRnqbIiwx4mymNEv7dS"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 175234,
+            "explicit": true,
+            "external_ids": {
+                "isrc": "USAT21901461"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6h2wpo2pshM8QnAvRySEO0"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6h2wpo2pshM8QnAvRySEO0",
+            "id": "6h2wpo2pshM8QnAvRySEO0",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Soulmate",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/467bc6a734bfb66e77f069ed62c40598c057c083?cid=774b29d4f13844c495f206cafdad9c86",
+            "track_number": 4,
+            "type": "track",
+            "uri": "spotify:track:6h2wpo2pshM8QnAvRySEO0"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS",
+                        "id": "56oDRnqbIiwx4mymNEv7dS",
+                        "name": "Lizzo",
+                        "type": "artist",
+                        "uri": "spotify:artist:56oDRnqbIiwx4mymNEv7dS"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6Rct4zM36bjIH5kF2PZ5nj"
+                },
+                "href": "https://api.spotify.com/v1/albums/6Rct4zM36bjIH5kF2PZ5nj",
+                "id": "6Rct4zM36bjIH5kF2PZ5nj",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ace301aefc77523ace9c29082fea4767d6c323c9",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/b5e7cd3472bc6f3ad8c9d7e8d41971d2179b7631",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/cd2a4c867d25557fb1149d89d0e008773852f48f",
+                        "width": 64
+                    }
+                ],
+                "name": "Cuz I Love You (Deluxe)",
+                "release_date": "2019-04-18",
+                "release_date_precision": "day",
+                "total_tracks": 14,
+                "type": "album",
+                "uri": "spotify:album:6Rct4zM36bjIH5kF2PZ5nj"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS",
+                    "id": "56oDRnqbIiwx4mymNEv7dS",
+                    "name": "Lizzo",
+                    "type": "artist",
+                    "uri": "spotify:artist:56oDRnqbIiwx4mymNEv7dS"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 172630,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USAT21802921"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7AwT9QW1Fo3ZHYeyztXnQI"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7AwT9QW1Fo3ZHYeyztXnQI",
+            "id": "7AwT9QW1Fo3ZHYeyztXnQI",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Boys",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/a2db1ef85045a88632b9e8d4a5651721d2afeffa?cid=774b29d4f13844c495f206cafdad9c86",
+            "track_number": 12,
+            "type": "track",
+            "uri": "spotify:track:7AwT9QW1Fo3ZHYeyztXnQI"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                        "id": "25uiPmTg16RbhZWAqwLBy5",
+                        "name": "Charli XCX",
+                        "type": "artist",
+                        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
+                },
+                "href": "https://api.spotify.com/v1/albums/386IqvSuljaZsMjwDGGdLj",
+                "id": "386IqvSuljaZsMjwDGGdLj",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273cee4acc7bfe23bc75461a66c",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02cee4acc7bfe23bc75461a66c",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851cee4acc7bfe23bc75461a66c",
+                        "width": 64
+                    }
+                ],
+                "name": "Charli",
+                "release_date": "2019-09-13",
+                "release_date_precision": "day",
+                "total_tracks": 15,
+                "type": "album",
+                "uri": "spotify:album:386IqvSuljaZsMjwDGGdLj"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+                    "id": "25uiPmTg16RbhZWAqwLBy5",
+                    "name": "Charli XCX",
+                    "type": "artist",
+                    "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS",
+                    "id": "56oDRnqbIiwx4mymNEv7dS",
+                    "name": "Lizzo",
+                    "type": "artist",
+                    "uri": "spotify:artist:56oDRnqbIiwx4mymNEv7dS"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 191506,
+            "explicit": true,
+            "external_ids": {
+                "isrc": "GBAHS1900557"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/2RCUr24WkEe2r5Vv4oDKlN"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2RCUr24WkEe2r5Vv4oDKlN",
+            "id": "2RCUr24WkEe2r5Vv4oDKlN",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Blame It on Your Love (feat. Lizzo)",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/39743e8539a0168e533ed52b2c1193c3a82a131d?cid=774b29d4f13844c495f206cafdad9c86",
+            "track_number": 8,
+            "type": "track",
+            "uri": "spotify:track:2RCUr24WkEe2r5Vv4oDKlN"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS",
+                        "id": "56oDRnqbIiwx4mymNEv7dS",
+                        "name": "Lizzo",
+                        "type": "artist",
+                        "uri": "spotify:artist:56oDRnqbIiwx4mymNEv7dS"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
+                },
+                "href": "https://api.spotify.com/v1/albums/6dFFcYQ8VhifgdKgYY5LYL",
+                "id": "6dFFcYQ8VhifgdKgYY5LYL",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27306af802e2ea241b6ba1ce0f2",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0206af802e2ea241b6ba1ce0f2",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485106af802e2ea241b6ba1ce0f2",
+                        "width": 64
+                    }
+                ],
+                "name": "Cuz I Love You",
+                "release_date": "2019-04-19",
+                "release_date_precision": "day",
+                "total_tracks": 11,
+                "type": "album",
+                "uri": "spotify:album:6dFFcYQ8VhifgdKgYY5LYL"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS",
+                    "id": "56oDRnqbIiwx4mymNEv7dS",
+                    "name": "Lizzo",
+                    "type": "artist",
+                    "uri": "spotify:artist:56oDRnqbIiwx4mymNEv7dS"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 179978,
+            "explicit": true,
+            "external_ids": {
+                "isrc": "USAT21900754"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6YdQgWSpsxhVeX6Xmv3IFJ"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6YdQgWSpsxhVeX6Xmv3IFJ",
+            "id": "6YdQgWSpsxhVeX6Xmv3IFJ",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Cuz I Love You",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/04472d81bc5a9669b8de9bd000085ac6456abc98?cid=774b29d4f13844c495f206cafdad9c86",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:6YdQgWSpsxhVeX6Xmv3IFJ"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS",
+                        "id": "56oDRnqbIiwx4mymNEv7dS",
+                        "name": "Lizzo",
+                        "type": "artist",
+                        "uri": "spotify:artist:56oDRnqbIiwx4mymNEv7dS"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
+                },
+                "href": "https://api.spotify.com/v1/albums/6dFFcYQ8VhifgdKgYY5LYL",
+                "id": "6dFFcYQ8VhifgdKgYY5LYL",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27306af802e2ea241b6ba1ce0f2",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0206af802e2ea241b6ba1ce0f2",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485106af802e2ea241b6ba1ce0f2",
+                        "width": 64
+                    }
+                ],
+                "name": "Cuz I Love You",
+                "release_date": "2019-04-19",
+                "release_date_precision": "day",
+                "total_tracks": 11,
+                "type": "album",
+                "uri": "spotify:album:6dFFcYQ8VhifgdKgYY5LYL"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS",
+                    "id": "56oDRnqbIiwx4mymNEv7dS",
+                    "name": "Lizzo",
+                    "type": "artist",
+                    "uri": "spotify:artist:56oDRnqbIiwx4mymNEv7dS"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 184857,
+            "explicit": true,
+            "external_ids": {
+                "isrc": "USAT21901460"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/5I7sGubUsKo4mVJpBoSVUr"
+            },
+            "href": "https://api.spotify.com/v1/tracks/5I7sGubUsKo4mVJpBoSVUr",
+            "id": "5I7sGubUsKo4mVJpBoSVUr",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Like a Girl",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/4f917112d7f75e2ca776c61b6dc8ab72fb9f8d06?cid=774b29d4f13844c495f206cafdad9c86",
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:5I7sGubUsKo4mVJpBoSVUr"
+        }
+    ]
+}
